@@ -1,6 +1,6 @@
 - no additional WeightedQuickUnionUF;
 - no virtual sites;
-
+- no backwash
 
 # ASSESSMENT SUMMARY
 > Compilation:  PASSED
